@@ -1,3 +1,5 @@
+//tutor by nur ahmad dwi wibowo
+//youtube channel : Digitalneering https://www.youtube.com/channel/UClxwaaJ-or0SJtlWMi3pHpA
 
 
 #define potentio 34
