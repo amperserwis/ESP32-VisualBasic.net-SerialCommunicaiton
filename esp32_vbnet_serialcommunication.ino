@@ -1,4 +1,5 @@
 
+
 #define potentio 34
 #define led1 26
 #define led2 27
