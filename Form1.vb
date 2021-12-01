@@ -1,4 +1,8 @@
-﻿Imports System.IO.Ports
+'this code create by nur ahmad'
+'Youtube channel : Digitalneering'
+'visit my youtube channel for detail to do'
+
+Imports System.IO.Ports
 
 Public Class Form1
     Dim myPort As Array
