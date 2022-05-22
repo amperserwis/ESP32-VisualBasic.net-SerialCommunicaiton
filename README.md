@@ -9,6 +9,6 @@ In this repository, ESP32 just turning on/off the LED, and reading ADC value (as
 
 if u guys enjoy with this project, visit my Youtube channel : Digitalneering https://www.youtube.com/channel/UClxwaaJ-or0SJtlWMi3pHpA
 
-and i already post the tutorial on this link https://www.youtube.com/watch?v=P06Kr94FNDk&t=20s
+and i already post the tutorial on this link https://youtu.be/aRRhnXibUwc
 
 if u like, dont forget to subscrbe my channel, and like the video. Thank u !
